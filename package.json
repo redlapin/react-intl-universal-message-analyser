@@ -1,10 +1,14 @@
 {
     "name": "react-intl-universal-message-check",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "'a useful tool to check out ununsed messages in you application'",
     "main": "index.js",
     "author": "liufeifei",
     "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/redlapin/react-intl-universal-message-check.git"
+    },
     "bin": {
       "messageCheck": "./index.js"
     },

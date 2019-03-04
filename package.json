@@ -7,7 +7,7 @@
     "license": "MIT",
     "repository": {
       "type": "git",
-      "url": "https://github.com/redlapin/react-intl-universal-message-check.git"
+      "url": "https://github.com/redlapin/react-intl-universal-message-analyser.git"
     },
     "bin": {
       "messageCheck": "./index.js"

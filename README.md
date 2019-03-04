@@ -30,7 +30,7 @@ key_message_four
 
 ### Install
 ```sh
-npm install react-intl-universal-message-check --save-dev
+npm install react-intl-universal-message-analyser --save-dev
 ```
 
 ### Usage

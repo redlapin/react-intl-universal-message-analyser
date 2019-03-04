@@ -1,6 +1,6 @@
 {
     "name": "react-intl-universal-message-check",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "'a useful tool to check out ununsed messages in you application'",
     "main": "index.js",
     "author": "liufeifei",
